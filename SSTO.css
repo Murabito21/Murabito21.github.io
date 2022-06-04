@@ -1,0 +1,19 @@
+body {
+    background-color:#ffc;
+}
+footer {
+    background-color:#ccc
+}
+.title {
+    display:flex;
+    align-items:center;
+    background-color:#ccc;
+}
+.banner {
+    margin:8px;
+}
+.seesaa {
+    background-color:#ccc;
+    max-width:400px;
+}
+
